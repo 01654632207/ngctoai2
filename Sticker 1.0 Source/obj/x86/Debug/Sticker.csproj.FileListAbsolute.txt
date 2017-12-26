@@ -1,0 +1,12 @@
+C:\Users\T\Downloads\Sticker 1.0 Source\bin\Debug\Sticker.exe
+C:\Users\T\Downloads\Sticker 1.0 Source\bin\Debug\Sticker.pdb
+C:\Users\T\Downloads\Sticker 1.0 Source\obj\x86\Debug\Sticker.csprojResolveAssemblyReference.cache
+C:\Users\T\Downloads\Sticker 1.0 Source\obj\x86\Debug\Sticker.AboutForm.resources
+C:\Users\T\Downloads\Sticker 1.0 Source\obj\x86\Debug\Sticker.MainForm.resources
+C:\Users\T\Downloads\Sticker 1.0 Source\obj\x86\Debug\Sticker.Properties.Resources.resources
+C:\Users\T\Downloads\Sticker 1.0 Source\obj\x86\Debug\Sticker.Images.resources
+C:\Users\T\Downloads\Sticker 1.0 Source\obj\x86\Debug\Sticker.SettingsForm.resources
+C:\Users\T\Downloads\Sticker 1.0 Source\obj\x86\Debug\Sticker.StickerForm.resources
+C:\Users\T\Downloads\Sticker 1.0 Source\obj\x86\Debug\Sticker.csproj.GenerateResource.Cache
+C:\Users\T\Downloads\Sticker 1.0 Source\obj\x86\Debug\Sticker.exe
+C:\Users\T\Downloads\Sticker 1.0 Source\obj\x86\Debug\Sticker.pdb
